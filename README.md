@@ -9,10 +9,7 @@
 - Generally able to find much simpler paths to obtain a clone in almost all cases  
 - The main downside is that it does not consider saplings with non-unique inputs  
 - Runs significantly faster than every other tool - on my GPU (RTX 3080), it takes around 0.8 seconds to process a full generation of 180 genes, or about 2 seconds total execution time  
-
-## Why no GUI?
-
-Its easier for me that way =)
+- Capable of finding `XXXXXX` and `WWWWWW` clones, getting `XXXXXX` is fun as the game glitches out and stops showing you the genetics (making it look like a clone with no genes)
 
 ## Comparison to Other Tools
 
